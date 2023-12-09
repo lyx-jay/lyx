@@ -28,7 +28,7 @@ export default defineConfig({
 
         //outline:[2,3],
         outlineTitle: '文章摘要',
-        socialLinks: [{ icon: 'github', link: 'https://github.com/airene/vitepress-blog-pure' }]
+        socialLinks: [{ icon: 'github', link: 'https://github.com/lyx-jay' }]
     },
     srcExclude: ['README.md'], // exclude the README.md , needn't to compiler
 
